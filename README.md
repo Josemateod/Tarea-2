@@ -46,3 +46,26 @@ rojo, oro.
 [![10problema.png](https://i.postimg.cc/xjpj6mr4/10problema.png)](https://postimg.cc/6TRN3ypr)
 
 [![10.png](https://i.postimg.cc/VkG38qRx/10.png)](https://postimg.cc/gxhMy61s)
+
+12-. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente
+de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
+
+[![12.png](https://i.postimg.cc/Rh2Ny6YK/12.png)](https://postimg.cc/QKk8Wthd)
+
+16-. Determine la corriente en cada caso
+
+[![16.png](https://i.postimg.cc/WpSR8cZp/16.png)](https://postimg.cc/9z4NXS1s)
+
+18-.Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes
+máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
+
+[![18resistor.png](https://i.postimg.cc/3wH76Cx3/18resistor.png)](https://postimg.cc/TKQZ5bbs)
+
+[![20.png](https://i.postimg.cc/mD7GScst/20.png)](https://postimg.cc/YG2VrCjH)
+
+20-.Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código
+de colores es naranja, violeta, amarillo, oro, café.
+
+[![20resistor.png](https://i.postimg.cc/2jH0KkS6/20resistor.png)](https://postimg.cc/jC76WrN0)
+
+[![20corriente.png](https://i.postimg.cc/YCNgTRz3/20corriente.png)](https://postimg.cc/sMXvhp8Q)
