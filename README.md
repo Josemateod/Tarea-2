@@ -31,3 +31,12 @@ Calculamos la resistencia aplicando la Ley de Ohm, para poder calcular la corrie
 Calculamos la corriente con los voltajes diferentes
 
 [![6.png](https://i.postimg.cc/SKTHmSNg/6.png)](https://postimg.cc/Z9NwchNN)
+
+8-. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo,
+rojo, oro.
+
+[![8r.png](https://i.postimg.cc/kXwQ1fMd/8r.png)](https://postimg.cc/mtz1h3Fd)
+
+[![8v.png](https://i.postimg.cc/fRrxZy02/8v.png)](https://postimg.cc/75SCnx90)
+
+[![8t.png](https://i.postimg.cc/fTHdjy5z/8t.png)](https://postimg.cc/2VZ3CzPM)
