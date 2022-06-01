@@ -40,3 +40,9 @@ rojo, oro.
 [![8v.png](https://i.postimg.cc/fRrxZy02/8v.png)](https://postimg.cc/75SCnx90)
 
 [![8t.png](https://i.postimg.cc/fTHdjy5z/8t.png)](https://postimg.cc/2VZ3CzPM)
+
+10-. ¿Cuál de los circuitos mostrados tiene más corriente? ¿Cuál tiene menos corriente?
+
+[![10problema.png](https://i.postimg.cc/xjpj6mr4/10problema.png)](https://postimg.cc/6TRN3ypr)
+
+[![10.png](https://i.postimg.cc/VkG38qRx/10.png)](https://postimg.cc/gxhMy61s)
