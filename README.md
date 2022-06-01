@@ -12,6 +12,7 @@ dentro del campo de estudio.
 MARCO TEÓRICO
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
 2.-Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
 
 [![2.png](https://i.postimg.cc/bwVYGjmB/2.png)](https://postimg.cc/RWfx8257)
