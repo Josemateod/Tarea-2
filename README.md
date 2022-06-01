@@ -20,3 +20,14 @@ dentro del campo de estudio.
 4-. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos.
 
 [![4.png](https://i.postimg.cc/qqQYqppb/4.png)](https://postimg.cc/CnBJ6TBk)
+
+6-. En cierto circuito, I=5 mA cuando V=1 V. Determine la corriente para cada uno de los voltajes siguientes
+en el mismo circuito.
+
+Calculamos la resistencia aplicando la Ley de Ohm, para poder calcular la corriente en distintos voltajes
+
+[![6r.png](https://i.postimg.cc/mkFjfRt1/6r.png)](https://postimg.cc/zH8KKswq)
+
+Calculamos la corriente con los voltajes diferentes
+
+[![6.png](https://i.postimg.cc/SKTHmSNg/6.png)](https://postimg.cc/Z9NwchNN)
