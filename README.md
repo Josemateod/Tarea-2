@@ -10,6 +10,8 @@ dentro del campo de estudio.
 
 ## MARCO TEÓRICO
 
+[![Mc.png](https://i.postimg.cc/1zLxDxFP/Mc.png)](https://postimg.cc/5HqkMRpk)
+
 ## EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 2-. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.
@@ -69,3 +71,21 @@ de colores es naranja, violeta, amarillo, oro, café.
 [![20resistor.png](https://i.postimg.cc/2jH0KkS6/20resistor.png)](https://postimg.cc/jC76WrN0)
 
 [![20corriente.png](https://i.postimg.cc/YCNgTRz3/20corriente.png)](https://postimg.cc/sMXvhp8Q)
+
+## CONCLUSIONES
+
+Es importante reconocer el origen de los conceptos que utilizamos, esto puede derivar en la correcta aplicación de los mismos
+sabiendo que la intensidad de la corriente tiene la definición del flujo de electrones entre los átomos de un metal. Entendiéndose el voltaje
+como aquella fuerza de atracción entre una carga positiva y una negativa. Y la resistencia refiriendose a aquel elemento que se opone al flujo de la corriente.
+
+## BIBLIOGRAFÍA
+
+(S/f). Espora.org. Recuperado el 4 de junio de 2022, de http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
+
+Guadarrama, R. B., Guadarrama, V. R. B., & Rodríguez, M. E. R. (2014). Circuitos Eléctricos: Teoría y Práctica. Grupo Editorial Patria.
+
+Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.). Pearson Educación.
+
+
+
+
