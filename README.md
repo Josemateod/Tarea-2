@@ -1,4 +1,4 @@
-# Tarea-2: Capítulo 3 - Capítulo 4
+# 1P Tarea 2
 
 ## OBJETIVOS
 
